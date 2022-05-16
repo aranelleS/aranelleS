@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @aranelleS
-- 👀 I'm interested in finding out more about Singapore, the comic book industry, and culture, through data
+- 👀 I'm interested in finding out more about Singapore, the comic book industry, and global culture, through data
 - 🌱 I'm currently learning data visualisations using Tableau, and Python
 - 💞️ I'm looking to collaborate on data cleaning, data wrangling
 - 📫 You can reach me at sheila.aranelle@gmail.com
